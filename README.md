@@ -2,11 +2,12 @@
 
 ![Board 3D Render](docs/board-front-3d.png)
 
-フォーク元の基板にGBA用通信ポートを追加しました、基板を傷めずに接続できます。  
-以下はフォーク元のREADMEを追記・修正して作成しています
+フォーク元の基板にGBA用通信ポートを追加しました、基板を傷めずに接続できます。
 
 ライセンスは自作した[libraries/gba_linkport Libraries](libraries/gba_linkport%20Libraries)内のみ[CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.ja)です。  
 その他はMITライセンスを引き継いでいます。
+
+これ以降や[COMPONENTS.md](COMPONENTS.md)はフォーク元から翻訳・追記・修正しています。
 
 Raspberry Pi Pico用のオープンソースUSB-ゲームボーイリンクケーブルアダプタです。入手しやすくはんだ付けしやすい部品で設計されています。
 
