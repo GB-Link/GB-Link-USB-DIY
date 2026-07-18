@@ -1,4 +1,4 @@
-# USB TO GAMEBOY LINK CABLE ADAPTER
+# GB-Link USB DIY, USB TO GAMEBOY LINK ADAPTER
 
 ![Board 3D Render](docs/board-front-3d.png)
 
