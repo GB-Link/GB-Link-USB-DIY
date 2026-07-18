@@ -2,7 +2,8 @@
 
 ![Board 3D Render](docs/board-front-3d.png)
 
-An Open-Source USB to Gameboy Link Cable Adapter for Raspberry Pi Pico. Designed with components that are easy to source and solder.
+An Open-Source USB to Gameboy Link Cable Adapter for Raspberry Pi Pico. Designed with components that are easy to source and solder. Original design by agtbaskara. Link port footprint added by fairy0715. 
+This board allows you to connect to GB/C or GBA games using a gereric GBC cable. OEM cables will work with their expected games.
 
 ![Schematic](docs/schematic.png)
 
