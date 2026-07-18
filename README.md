@@ -20,14 +20,13 @@ To order a board, use the `gerbers.zip` from the release page or generate one yo
 
 **Use 1.2mm PCB thickness.**
 
-You can choose any colour for the Solder Mask and Silkscreen. For the Surface Finish, ENIG is recommended.
+You can choose any colour for the Solder Mask and Silkscreen. For the Surface Finish, ENIG is highly recommended.
 
 # How to Assemble Board
 
-1. Trim the Link Cable connectors width on the board to the appropriate size using a file tool or sandpaper
-2. Solder pin header to Raspberry Pi Pico and Level Shifter module. Use a breadboard for easier soldering
+1. Sand the PCB edge connectors if necessary.
+2. Solder pin header to Raspberry Pi Pico and Level Shifter module. Use a breadboard for easier pin soldering.
 3. Solder Raspberry Pi Pico and Level Shifter module to the board
-4. Cut the excessive pin using a nipper tool
 5. Solder the 1x3 Pin Header to the board, and place the Pin Jumper
 6. Flash firmware to your Raspberry Pi Pico (see [Compatibility](#Compatibility))
 
