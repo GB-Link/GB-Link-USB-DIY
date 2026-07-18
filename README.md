@@ -28,11 +28,11 @@ You can choose any colour for the Solder Mask and Silkscreen. For the Surface Fi
 2. Solder pin header to Raspberry Pi Pico and Level Shifter module. Use a breadboard for easier pin soldering.
 3. Solder Raspberry Pi Pico and Level Shifter module to the board
 5. Solder the 1x3 Pin Header to the board, and place the Pin Jumper
-6. Flash firmware to your Raspberry Pi Pico (see [Compatibility](#Compatibility))
+6. Flash firmware to your Raspberry Pi Pico
 
 
 Recomended firmware:
-- [https://github.com/starlarkus/gb-link-firmware-reconfigurable](https://github.com/GB-Link/GBLink-Firmware)
+- [https://github.com/GB-Link/GBLink-Firmware/releases](https://github.com/GB-Link/GBLink-Firmware/releases)
 List of clients for the GB-Link firmware found at [https://launcher.gblink.io/](https://launcher.gblink.io/)
 
 Other compatible firmware:
