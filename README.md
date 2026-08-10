@@ -17,6 +17,10 @@ This board allows you to connect to GB/C or GBA games using a gereric GBC cable.
 
 # Optional Case
 Optional case available to print, works well in either PLA or PETG. No screws or glue needed.
+<img width="929" height="384" alt="Case-Front" src="https://github.com/user-attachments/assets/3d1b82ce-5d35-445e-9bb6-2f24418a413e" />
+
+<img width="992" height="354" alt="Case-Back" src="https://github.com/user-attachments/assets/92415eaa-f454-4e6d-ad2e-3dfed73497a1" />
+
 
 https://www.printables.com/model/1805845-gb-link-v11-housing
 
