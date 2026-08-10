@@ -15,6 +15,10 @@ This board allows you to connect to GB/C or GBA games using a gereric GBC cable.
 | U2 | [BOB-12009](https://www.sparkfun.com/products/12009) | Sparkfun Bi-Directional Logic Level Converter, clones are compatible |
 | SW1 | [SS12D00-G3](https://www.amazon.com/Tnuocke-Vertical-Position-Switches-SS12D00-G3/dp/B099MRCDG8) | 3 Pin SPDT Switch with 1" (2.54mm) Pitch |
 
+# Optional Case
+Optional case available to print, works well in either PLA or PETG. No screws or glue needed.
+https://www.printables.com/model/1805845-gb-link-v11-housing
+
 # How to Order Board
 
 To order a board, use the `gerbers.zip` from the release page or generate one yourself. You can order from your favourite PCB manufacturer ([JLCPCB](https://jlcpcb.com/), [PCBWay](https://www.pcbway.com/), etc.).
